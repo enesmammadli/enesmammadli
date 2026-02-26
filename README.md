@@ -4,10 +4,9 @@
 
 - 1 〱  Primarily using C++/C/Python/TypeScript.
 - 2 〱 I'm a Software/Hardware Engineer.
-- 3 〱 Working on Arch Linux.
-- 4 〱 Open source enthusiasts.
-- 5 〱  Coding is my passion.
-- 6 〱 Currently working on  [aviel](https://github.com/enesmammadli/aviel).
+- 3 〱 Working on Arch mainly.
+- 4 〱 Open source addictive enthusiast.
+- 5 〱  Coding is my epic passion.
 
 
 
